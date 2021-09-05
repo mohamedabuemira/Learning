@@ -1,0 +1,46 @@
+.xo ul{
+width: 300px;
+height: 300px;
+display: flex;
+flex-wrap: wrap;
+
+
+}
+.xo li{
+    width: 90px;
+    background-color: rgb(182, 230, 173);
+    height: 90px;
+    font-size: 80px;
+    font-family: sans-serif;
+    margin: 5px;
+    list-style: none;
+    text-align: center;
+    length: 5px;
+}
+#item
+img
+{width: 150px;}
+.one{
+    color: silver;
+    font-size: larger;
+    background-color: rgb(255, 123, 0);
+    display:flexbox;
+    flex-wrap: wrap;
+    font-style: italic;
+    font-weight: bold;
+}
+.blue_box {
+    border: 10px solid blue;
+    padding: 0.5em;
+    width: 150px;
+    height: 100px;
+    margin: 2px;
+    color: brown;
+    length
+  }
+.list{
+    color: red;
+    font-family: Arial;
+
+}
+div h1 {text-decoration: underline;}
